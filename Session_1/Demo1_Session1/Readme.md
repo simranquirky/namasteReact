@@ -2,7 +2,7 @@
 
 #### Folder structure
 
-<b> Assignment 1 </b>
+<b>Demo1_Session1 </b>
 
 |_ index1.html (Contains a simple hello world program using HTML)
 
@@ -11,3 +11,4 @@
 |_ index3.html (Contains a simple hello world program using React)
 
 |_ reactimplementation.js (Contains js code which is imported in indes3.html file)
+
