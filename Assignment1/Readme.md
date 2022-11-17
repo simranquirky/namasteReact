@@ -1,7 +1,8 @@
 ### This is a part of Namaste React Bootcamp 2022
 
-Folder structure
-Assignment 1
+#### Folder structure
+
+<b> Assignment 1 </b>
 
 |_ index1.html (Contains a simple hello world program using HTML)
 
