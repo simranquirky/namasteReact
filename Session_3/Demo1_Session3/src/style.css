@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(204, 127, 255);
+    padding: 2rem;
+  }
+  .search {
+    min-width: 80%;
+    height: 80px;
+    border: 2px gradient black;
+    margin-top: 2px;
+    box-shadow: inset;
+    margin-left: 40px;
+  }
+  .logo {
+    min-width: 50px;
+    
+
+
+  }
+  
+  input:focus {
+    border-color: white;
+  }
