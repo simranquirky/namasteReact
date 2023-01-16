@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "parcel": "^2.8.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "session_4",
+  "description": "- `console.log(<HeadingComponent />)` in this the `<HeadingComponent />` is used to call the functional component `HeadingComponent`. \r - The above is similar to `console.log(HeadingComponent())` , behind the scene they render the same object by executing the function.\r - passing props to a function is similar to passing arguments to a function.\r - Everything you see repeating in an app is made using component.\r - We need to build just one component and use it in iteration for any number of times needed.\r -",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

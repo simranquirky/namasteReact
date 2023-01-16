@@ -122,3 +122,6 @@ function Heading3() {
     This is the same as above 
     
     < /> Renders a function “component” but throws an error when we do not use a function
+
+
+References used in code assignment:  https://www.freecodecamp.org/news/how-to-use-react-icons/
