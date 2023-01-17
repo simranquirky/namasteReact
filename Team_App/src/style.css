@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+body {
+    background: #e5e6e5;
+    display: flex;
+}
+.card-container {
+    display: flex;
+}
+
+.Profile_Card {
+ 
+text-align: center;
+display: inline-block;
+width: auto;
+min-height: 300px;
+max-width: 250px;
+ padding: 10px;
+ border-radius: 25px;
+box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+}
+
+.profile_image {
+    width: 40%;
+    border-radius: 50%;
+  margin-top: 10%;
+    align-items: center;
+    box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+
+}
+
+.ion-social-github-outline, .ion-social-twitter-outline, .ion-social-linkedin-outline
+{
+    font-size: 25px;
+    margin: 10px;
+}
+
+.logo {
+    max-width: 100px;
+}
+.title-class {
+    display: flex;
+    width: 100%;
+background: linear-gradient(145deg, #f5f6f5, #cecfce);
+box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+             margin-bottom: 15%;
+}
+
+
+.title-class > h1 {
+    margin-left: 50px;
+   
+}
+
