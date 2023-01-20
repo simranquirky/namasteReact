@@ -1,3 +1,5 @@
+## The entire session reduced to points
+
 - `console.log(<HeadingComponent />)` in this the `<HeadingComponent />` is used to call the functional component `HeadingComponent`. 
 - The above is similar to `console.log(HeadingComponent())` , behind the scene they render the same object by executing the function.
 - passing props to a function is similar to passing arguments to a function.
