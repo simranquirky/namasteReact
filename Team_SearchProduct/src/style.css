@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,600);
+@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
+
+body {
+    background: #e5e6e5;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Product_Card {
+ 
+text-align: center;
+display: inline-block;
+width: auto;
+min-height: 300px;
+min-width: 250px;
+ padding: 10px;
+ border-radius: 25px;
+box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+}
+
+.product_image {
+    width: 100%;
+    max-width: 300px;
+  margin-top: 10%;
+    align-items: center;
+    box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+
+}
+
+.logo {
+    max-width: 100px;
+}
+.title-class {
+    width: 20%;
+background: linear-gradient(145deg, #f5f6f5, #cecfce);
+box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+}
+
+
+.title-class > h1 {
+    margin-left: 50px;
+   
+}
+
+.search {
+    width: auto;
+    min-height: 30px;
+    background-color: green;
+}
+.search-bar {
+    width: 100%;
+}
+
+#button {
+    background: linear-gradient(145deg, #456645, #2f442f);
+box-shadow:  35px 35px 70px #b9bab9,
+             -35px -35px 70px #ffffff;
+}
+
+.body-content {
+    display: inline;
+}
